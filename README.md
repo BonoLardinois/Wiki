@@ -4,7 +4,7 @@ wikipedia page with search, create, random and edit function
 
 ## Getting Started
 
-1. download with: git clone https://github.com/uva-webapps/wiki-BonoLardinois.git
+1. download zip file of download with: git clone https://github.com/uva-webapps/wiki-BonoLardinois.git
 2. open in text editor
 3. run the site with python manage.py runserver
 4. the site opens in the prefered browser
